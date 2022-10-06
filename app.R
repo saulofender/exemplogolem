@@ -7,5 +7,5 @@ options( "golem.app.prod" = TRUE)
 exemplogolem::run_app() # add parameters here (if any)
 
 
-# para mudar o nome do app
+# para mudar o nome do aplicativo
 #rsconnect::deployApp(appName = "meuapplindo")
